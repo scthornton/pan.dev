@@ -34,3 +34,14 @@ src/**/feeds.json
 # playwright
 .playwright-storage.json
 .pw-user-data/
+
+# AI tool artifacts
+.claude/
+CLAUDE.md
+claude.md
+planning.md
+status.md
+notes.md
+todo.md
+*.chat
+*.conversation
